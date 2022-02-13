@@ -1,1 +1,1 @@
-My simple python code to assist me with a better guess for next wordle word
+My simple jupyter notebook with python code to assist me with a better guess for next wordle word
